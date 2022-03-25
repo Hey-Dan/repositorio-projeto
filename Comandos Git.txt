@@ -1,0 +1,13 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git help {comando}
+git {comando} --help
+man git- {comando}
+git init                         -> iniciar repositório
+git commit -m "Versão inicial do projeto"
+git clone [url]
+git add README
+git status
+git commit -m "Mensagem"
+git rm -f {arquivo}      -> remover arquivos
+git mv arquivo_origem arquivo_destino     -> mover arquivos
